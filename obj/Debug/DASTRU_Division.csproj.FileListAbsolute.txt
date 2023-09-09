@@ -1,0 +1,8 @@
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\bin\Debug\DASTRU_Division.exe.config
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\bin\Debug\DASTRU_Division.exe
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\bin\Debug\DASTRU_Division.pdb
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\obj\Debug\DASTRU_Division.csproj.AssemblyReference.cache
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\obj\Debug\DASTRU_Division.csproj.SuggestedBindingRedirects.cache
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\obj\Debug\DASTRU_Division.csproj.CoreCompileInputs.cache
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\obj\Debug\DASTRU_Division.exe
+C:\Users\adrian\Desktop\COMMISSIONS\DASTRU_Division\obj\Debug\DASTRU_Division.pdb
